@@ -1,5 +1,0 @@
-file(GLOB POWER_SRC "*.cpp" "*.h")
-add_executable(power ${POWER_SRC})
-
-target_link_libraries(power glfw)
-target_link_libraries(power Vulkan::Vulkan)
