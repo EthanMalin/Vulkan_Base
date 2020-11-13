@@ -1,5 +1,0 @@
-/Users/ethanmalin/dev/power/build/CMakeFiles/rebuild_cache.dir
-/Users/ethanmalin/dev/power/build/CMakeFiles/edit_cache.dir
-/Users/ethanmalin/dev/power/build/src/CMakeFiles/rebuild_cache.dir
-/Users/ethanmalin/dev/power/build/src/CMakeFiles/edit_cache.dir
-/Users/ethanmalin/dev/power/build/src/CMakeFiles/power.dir
